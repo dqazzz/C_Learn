@@ -11,6 +11,7 @@ int main00()
 	case 2:printf("小傻瓜，为什么不全捡呢\n"); break;
 	case 12:printf("你贪得无厌，这种事应该交给警察叔叔\n"); break;
 	case 21:printf("你贪得无厌，这种事应该交给警察叔叔\n"); break;
+		// zheshiyitiaozhushi
 	}
 	system("pause");
 	return 0;
